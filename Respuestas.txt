@@ -1,0 +1,5 @@
+A) Hubiese funcionado exactamente igual, pero seria un codigo mucho mas grande y dificil de leer
+
+B) Para que, aparte de lo ya mencionado en el punto anterior, se pueda encontrar mas facil errores
+
+C) Seguramente si, asi se pueden crear codigos mucho mas legibles y prolijos
